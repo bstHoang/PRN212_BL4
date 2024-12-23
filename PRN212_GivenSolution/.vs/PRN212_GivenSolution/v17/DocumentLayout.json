@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212_BL4\\PRN212_GivenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\prn212_bl4\\prn212_givensolution\\question2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\prn212_bl4\\prn212_givensolution\\question2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\prn212_bl4\\prn212_givensolution\\question2\\models\\hrmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\hrmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\prn212_bl4\\prn212_givensolution\\question2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\prn212_bl4\\prn212_givensolution\\question2\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\prn212_bl4\\prn212_givensolution\\question2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\prn212_bl4\\prn212_givensolution\\question2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\Department.cs",
+              "ToolTip": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\Models\\Department.cs",
+              "RelativeToolTip": "Question2\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:36:56.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\Position.cs",
+              "ToolTip": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\Models\\Position.cs",
+              "RelativeToolTip": "Question2\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:36:32.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\Employee.cs",
+              "ToolTip": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\Models\\Employee.cs",
+              "RelativeToolTip": "Question2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:28:52.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Question2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Question2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:31:15.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Question2\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\MainWindow.xaml",
+              "RelativeToolTip": "Question2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T09:25:13.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HrmanagementContext.cs",
+              "DocumentMoniker": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\Models\\HrmanagementContext.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\HrmanagementContext.cs",
+              "ToolTip": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\Models\\HrmanagementContext.cs",
+              "RelativeToolTip": "Question2\\Models\\HrmanagementContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:22:09.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\appsettings.json",
+              "RelativeDocumentMoniker": "Question2\\appsettings.json",
+              "ToolTip": "D:\\PRN212_BL4\\PRN212_GivenSolution\\Question2\\appsettings.json",
+              "RelativeToolTip": "Question2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T13:37:15.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

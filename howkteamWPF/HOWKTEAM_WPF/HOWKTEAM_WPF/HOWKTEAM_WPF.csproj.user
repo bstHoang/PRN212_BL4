@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Bai1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai10.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai11.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai12.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai13.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai14.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai15.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai16.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai17.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai18.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai19.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai20.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai21.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai22.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai23.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai24.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai25.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai26.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai27.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai28.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai29.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai30.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai31.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai32.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai33.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai34.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai35.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai36.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai37.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai38.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai4.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai6.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai7.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai8.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Bai9.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Bai1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai10.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai11.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai12.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai13.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai14.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai15.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai16.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai17.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai18.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai19.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai20.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai21.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai22.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai23.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai24.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai25.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai26.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai27.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai28.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai29.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai30.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai31.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai32.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai33.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai34.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai35.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai36.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai37.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai38.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai4.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai5.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai6.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai7.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai8.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bai9.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

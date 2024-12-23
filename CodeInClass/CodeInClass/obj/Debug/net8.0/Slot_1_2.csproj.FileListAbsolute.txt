@@ -1,0 +1,14 @@
+D:\PRN212_BL4\CodeInClass\CodeInClass\bin\Debug\net8.0\Slot_1_2.exe
+D:\PRN212_BL4\CodeInClass\CodeInClass\bin\Debug\net8.0\Slot_1_2.deps.json
+D:\PRN212_BL4\CodeInClass\CodeInClass\bin\Debug\net8.0\Slot_1_2.runtimeconfig.json
+D:\PRN212_BL4\CodeInClass\CodeInClass\bin\Debug\net8.0\Slot_1_2.dll
+D:\PRN212_BL4\CodeInClass\CodeInClass\bin\Debug\net8.0\Slot_1_2.pdb
+D:\PRN212_BL4\CodeInClass\CodeInClass\obj\Debug\net8.0\Slot_1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212_BL4\CodeInClass\CodeInClass\obj\Debug\net8.0\Slot_1_2.AssemblyInfoInputs.cache
+D:\PRN212_BL4\CodeInClass\CodeInClass\obj\Debug\net8.0\Slot_1_2.AssemblyInfo.cs
+D:\PRN212_BL4\CodeInClass\CodeInClass\obj\Debug\net8.0\Slot_1_2.csproj.CoreCompileInputs.cache
+D:\PRN212_BL4\CodeInClass\CodeInClass\obj\Debug\net8.0\Slot_1_2.dll
+D:\PRN212_BL4\CodeInClass\CodeInClass\obj\Debug\net8.0\refint\Slot_1_2.dll
+D:\PRN212_BL4\CodeInClass\CodeInClass\obj\Debug\net8.0\Slot_1_2.pdb
+D:\PRN212_BL4\CodeInClass\CodeInClass\obj\Debug\net8.0\Slot_1_2.genruntimeconfig.cache
+D:\PRN212_BL4\CodeInClass\CodeInClass\obj\Debug\net8.0\ref\Slot_1_2.dll

@@ -1,0 +1,21 @@
+﻿<Window x:Class="HOWKTEAM_WPF.Bai3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HOWKTEAM_WPF"
+        mc:Ignorable="d"
+        Title="Bai3" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="txbl1" Foreground="Chocolate" VerticalAlignment="Top">
+            <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="http://www.howkteam.com">www.HowKteam.com</Hyperlink> 
+            - <Bold><Underline>Free Education</Underline></Bold>
+            - <Bold><Italic>Share to be better</Italic></Bold>
+            - <Span FontFamily="Arial" FontSize="20" Foreground="Purple">K9</Span>
+        </TextBlock>
+        <TextBlock x:Name="txbl2" VerticalAlignment="Bottom" TextTrimming="WordEllipsis">
+            dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd99999999999
+        </TextBlock>
+        <TextBlock VerticalAlignment="Center" x:Name="txbl3"></TextBlock>
+    </Grid>
+</Window>

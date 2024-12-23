@@ -1,0 +1,14 @@
+D:\HE172265_PRN212\Demc#\DemoEvent\bin\Debug\net8.0\DemoEvent.exe
+D:\HE172265_PRN212\Demc#\DemoEvent\bin\Debug\net8.0\DemoEvent.deps.json
+D:\HE172265_PRN212\Demc#\DemoEvent\bin\Debug\net8.0\DemoEvent.runtimeconfig.json
+D:\HE172265_PRN212\Demc#\DemoEvent\bin\Debug\net8.0\DemoEvent.dll
+D:\HE172265_PRN212\Demc#\DemoEvent\bin\Debug\net8.0\DemoEvent.pdb
+D:\HE172265_PRN212\Demc#\DemoEvent\obj\Debug\net8.0\DemoEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\HE172265_PRN212\Demc#\DemoEvent\obj\Debug\net8.0\DemoEvent.AssemblyInfoInputs.cache
+D:\HE172265_PRN212\Demc#\DemoEvent\obj\Debug\net8.0\DemoEvent.AssemblyInfo.cs
+D:\HE172265_PRN212\Demc#\DemoEvent\obj\Debug\net8.0\DemoEvent.csproj.CoreCompileInputs.cache
+D:\HE172265_PRN212\Demc#\DemoEvent\obj\Debug\net8.0\DemoEvent.dll
+D:\HE172265_PRN212\Demc#\DemoEvent\obj\Debug\net8.0\refint\DemoEvent.dll
+D:\HE172265_PRN212\Demc#\DemoEvent\obj\Debug\net8.0\DemoEvent.pdb
+D:\HE172265_PRN212\Demc#\DemoEvent\obj\Debug\net8.0\DemoEvent.genruntimeconfig.cache
+D:\HE172265_PRN212\Demc#\DemoEvent\obj\Debug\net8.0\ref\DemoEvent.dll

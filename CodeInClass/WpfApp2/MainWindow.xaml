@@ -1,0 +1,79 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ListView x:Name="listViewStudents"
+      HorizontalAlignment="Stretch"
+      VerticalAlignment="Stretch"
+      Margin="10"
+      Grid.Column="0"
+      SelectionChanged="listViewStudents_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Id}" Width="50" />
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="150" />
+                    <GridViewColumn Header="Gender" Width="50">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox IsChecked="{Binding Gender}" IsEnabled="False" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="DepartId" DisplayMemberBinding="{Binding Depart.Name}" Width="150" />
+                    <GridViewColumn Header="Dob" DisplayMemberBinding="{Binding Dob}" Width="122" />
+                    <GridViewColumn Header="Gpa" DisplayMemberBinding="{Binding Gpa}" Width="50" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <StackPanel Grid.Column="1" Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="ID" Width="60"/>
+                <TextBox Name="txtId" Width="125" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="Name" Width="60"/>
+                <TextBox Name="txtName" Width="125" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="Gender" Width="60"/>
+                <CheckBox Name="chkGender" Width="125" Content="Male" VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="DerpartmentID" Width="60"/>
+                <ComboBox Name="cbDerpartmentID" Width="125" VerticalAlignment="Center"
+              DisplayMemberPath="Name" SelectedValuePath="Id"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="DOB" Width="60"/>
+                <DatePicker Name="dpkDOB" Width="125" VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="GPA" Width="60"/>
+                <TextBox Name="txtGPA" Width="125" />
+            </StackPanel>
+            <!--<StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+    <Label Content="DepartName" Width="60"/>
+    <TextBox Name="txtDepartName" Width="125" />
+</StackPanel>-->
+            <Grid Margin="0,10,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" Name="btnInsert" Content="Insert" Margin="0,0,5,0" Click="btnInsert_Click"/>
+                <Button Grid.Column="1" Name="btnUpdate" Content="Update" Margin="0,0,5,0" Click="btnUpdate_Click"/>
+                <Button Grid.Column="2" Name="btnDelete" Content="Delete" Grid.ColumnSpan="2" Margin="0,0,0,0" Click="btnDelete_Click"/>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>
